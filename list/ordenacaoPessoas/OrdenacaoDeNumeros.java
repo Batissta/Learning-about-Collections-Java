@@ -1,4 +1,4 @@
-package ordenacaoDePessoas;
+package ordenacaoPessoas;
 
 import java.util.ArrayList;
 import java.util.Collections;
